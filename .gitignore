@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# for now
+Crops.ipynb
 # C extensions
 *.so
 
