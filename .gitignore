@@ -5,6 +5,7 @@ __pycache__/
 
 # for now
 Crops.ipynb
+Fowl_Escapades.ipynb
 # C extensions
 *.so
 
